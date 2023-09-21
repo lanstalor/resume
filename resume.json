@@ -1,236 +1,345 @@
 {
-  "meta": {
-    "theme": "elegant"
-  },
   "basics": {
-    "name": "Thomas Davis",
-    "label": "Web Developer",
-    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
-    "website": "https://lordajax.com",
-    "email": "thomasalwyndavis@gmail.com",
+    "name": "Lance Arlington Taylor",
+    "label": "Multifaceted Telecommunications Professional",
+    "image": "MISSING",
+    "email": "lance@lancetaylor.ca",
+    "phone": "(902) 478-0747",
+    "url": "lancetaylor.ca",
+    "summary": "A Dynamic Telecommunications Leader & Innovator with a deep command of RF Engineering, Data Analytics, and Development. Recognized for transforming Canadian telco standards through strategic foresight and hands-on expertise. Exceptional at demystifying complex topics for actionable decision-making. Awarded for innovation, I combine empathy and a detail-oriented approach, ready to lead and elevate the future of telecommunications.",
     "location": {
-      "city": "Melbourne",
-      "countryCode": "AU"
+      "address": "Halifax, Nova Scotia",
+      "postalCode": "MISSING",
+      "city": "Halifax",
+      "countryCode": "CA",
+      "region": "Nova Scotia"
     },
-    "profiles": [
-      {
-        "username": "ajaxdavis",
-        "url": "https://twitter.com/ajaxdavis",
-        "network": "twitter"
-      },
-      {
-        "url": "https://github.com/thomasdavis",
-        "username": "thomasdavis",
-        "network": "github"
-      }
-    ]
+    "profiles": []
   },
-  "education": [
+  "work": [
     {
-      "endDate": "2009-12-12",
-      "startDate": "2008-02-12",
-      "area": "Software Engineering (incomplete)",
-      "studyType": "Bachelors",
-      "institution": "The University of Queensland"
+      "company": "Bell Canada",
+      "position": "Senior Engineering Manager, National Fibre Network Planning",
+      "website": "MISSING",
+      "startDate": "2021-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Strategic Planning & Communication, Interdepartmental Collaboration, Operational Efficiency & Innovation, Broadband Subsidy Success",
+      "highlights": [
+        "Devised and presented a transformative 3-year FTTH rollout plan for 2.6 million homes, garnering praise for enhanced clarity and insight in strategy communication to CEO and EVP levels.",
+        "Worked seamlessly with product and sales teams, integrating competitive market strategies and key customer needs into the fiber rollout.",
+        "Established a dedicated KPI-tracking team, harnessing big-data technologies to optimize reporting, slashing redundancy, and achieving a 30% faster turnaround.",
+        "Directed planning and design for subsidy program bids, surpassing targets using a complex heuristic model and ensuring the successful implementation of a multi-gig FTTH program across diverse regions."
+      ]
+    },
+    {
+      "company": "Bell Mobility",
+      "position": "Senior Engineering Manager, National Wireless Network Planning",
+      "website": "MISSING",
+      "startDate": "2018-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Strategic Team Building, Executive Alignment, 5G Mastery, Spectrum Stewardship, Auction Analytics, AI-Driven Predictions, Competitive Vigilance, GIS Leadership, Global Innovations Partnership, Client Diplomacy, People Development & Training",
+      "highlights": [
+        "Constructed and directed an elite engineering unit focused on the progressive evolution of spectrum-asset-based wireless networks from UMTS to 5G. Recruited top talent and transformed processes to exceed targets and improve employee engagement.",
+        "Regularly engaged with CEO and EVP tiers, presenting strategic blueprints ensuring synchronization with overarching corporate goals. Received continued praise for distilling exceptional clarity on complex, financially impacting, technical topics.",
+        "Seamlessly executed both fixed and mobile 5G NR launches. Delved deep into technical evaluations, capital investments, vendor selections, and nuanced strategies for effective indoor 5G deployments tailored to varied businesses.",
+        "Orchestrated meticulous management of spectrum assets in adherence to ISED guidelines, outperforming expectations and pioneering deployments in non-native territories.",
+        "Became an instrumental force in multiple spectrum auctions by providing in-depth data analytics encompassing network performance, population coverage scenarios and valuation, and strategic market prioritization.",
+        "Nurtured emerging talents, guiding them towards the creation of a machine-learning model for accurate traffic forecasting, yielding impressive accuracy improvements resulting in millions of cost avoidance",
+        "Instituted a dedicated team focused on competitor insights, gaining an edge by accurately preempting competitor 5G spectrum deployments and feature rollouts, and identifying weak network areas for investment prioritization",
+        "Managed the entire Wireless GIS and Statistics teams, initiated a revamp of core GIS systems, and met the dynamic needs of cross-functional teams. Reduced network coverage map refresh times to <10% of their previous length",
+        "Represented Bell in international forums, particularly in Korea, driving discussions on 5G breakthroughs and standing as the prime network representative during the launch of Canada's first 5G mobile product (TSN 5G View).",
+        "Forged bonds with private enterprises and governmental bodies on network enhancements, offering authoritative guidance and showcasing the network's prowess in pivotal negotiations.",
+        "Crafted and disseminated corporate 5G NR training modules to an audience of 6,000+ employees, gaining accolades and repurposing content for nationwide sales demonstrations."
+      ]
+    },
+    {
+      "company": "Bell Mobility",
+      "position": "Senior Engineering Manager, National Network Performance",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Strategic Leadership: Spearheaded a team of over 20 technical experts, solidifying Canada's position with the Best and Fastest Mobile Network title, covering a vast technical spectrum from IP backbone to RAN to mobile devices.",
+      "highlights": [
+        "Operational Revamp: Orchestrated an agile transformation, segmenting teams into specialized e2e wireless feature development units. Utilized scrum methodologies to strike a balance between innovation and operational excellence.",
+        "Benchmarking Excellence: Clinched the 'Best Network' accolade from GWS in 2017 both at national and regional levels.",
+        "Innovative Network Strategies: Elevated Bell's stature on the global stage with the world's fastest LTE 4CCA network deployment.",
+        "Feature Development Mastery: Steered the exemplary VoLTE service launch, setting new industry benchmarks.",
+        "Pioneering Optimization: Championed the inception of a self-regulating network platform."
+      ]
+    },
+    {
+      "company": "Bell Mobility",
+      "position": "Senior Engineering Manager, Regional RF Engineering & Network Performance",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Empowering People: Managed 12 novice and senior RF Engineers; directed RF design across Greater Ontario with a $200M annual budget.",
+      "highlights": [
+        "Operational Delivery: Executed major telecom projects, including 3500MHz, 2600MHz and 700MHz spectrum deployments.",
+        "New Technology Introduction: Drove wireless access strategy for Greater Ontario and executed a $50M project for Wireless Home Internet.",
+        "Conflict Management: Successfully managed Canada-US border optimization of LTE frequencies.",
+        "Team Player: Collaborated with construction, real-estate, and field teams for optimized deployment and maximum ROI."
+      ]
+    },
+    {
+      "company": "Bell Mobility",
+      "position": "RF Engineering Specialist: NS, NB, PEI",
+      "website": "",
+      "startDate": "2011-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Orchestrated RF design across NB, NS, and PEI, launching 20+ macro cell towers and delivering 200+ optimization and spectrum additional projects.",
+      "highlights": [
+        "Delivered first Atlantic small cell cluster in Charlottetown, PEI, pioneering relations with utility and infrastructure providers.",
+        "Regional prime with significant role in launching LTE 2100 MHz in Halifax, Nova Scotia."
+      ]
     }
   ],
-  "references": [
+  "education": [
     {
-      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
+      "institution": "Dalhousie University",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "MISSING",
+      "endDate": "2010-12-01",
+      "gpa": "MISSING",
+      "courses": [],
+      "honors": [
+        "Presidents Scholarship",
+        "Vice President Communications, DSEUS Engineering Society",
+        "Sobey's School of Business Small Business Award"
+      ]
     },
     {
-      "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!",
-      "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc."
-    },
-    {
-      "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
-      "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
-    },
-    {
-      "reference": "On Thomas Davis... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
-      "name": "Greg Davis"
+      "institution": "Acadia University",
+      "area": "Applied Sciences in Electrical Engineering",
+      "studyType": "Diploma",
+      "startDate": "MISSING",
+      "endDate": "2008-05-01",
+      "gpa": "MISSING",
+      "courses": [],
+      "honors": [
+        "Barrett Scholarship",
+        "Innovacorp Entrepreneurial Competition Award (1st)",
+        "Acadia Engineering Competition 1st Place"
+      ]
     }
   ],
   "skills": [
     {
+      "name": "Data Analytics",
+      "level": "Expert",
       "keywords": [
-        "HTML / JSX",
-        "SCSS / CSS / BEM / Styled Components",
-        "Javascript / Typescript",
-        "React / Next",
-        "Redux / Apollo"
-      ],
-      "level": "Senior",
-      "name": "Frontend"
-    },
-    {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
-      "level": "Senior",
-      "name": "Backend"
-    },
-    {
-      "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
-      "level": "Senior",
-      "name": "Devops"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Defender of the Internet",
-      "awarder": "Fight For The Future"
-    }
-  ],
-  "work": [
-    {
-      "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
-      "website": "https://tokenized.com/",
-      "name": "Tokenized",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2020-05-05",
-      "highlights": ["React", "Redux", "SCSS", "Product"]
-    },
-    {
-      "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      "website": "https://platform.blockbid.io",
-      "name": "Blockbid",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2020-01-01",
-      "highlights": [
-        "React, Apollo, Styled Components",
-        "Node.js / Rails",
-        "Docker / Heroku / GCP",
-        "Used Figma for design and UX work",
-        "Optimizing markets with tens of millions of rows using SQL."
+        "Python",
+        "Alteryx",
+        "SQL",
+        "Microstrategy",
+        "Tableau",
+        "PowerBI",
+        "Grafana",
+        "Hadoop",
+        "Spark",
+        "Hive",
+        "AWS",
+        "Cloudera",
+        "GCP"
       ]
     },
     {
-      "highlights": [
-        "Worked with Postgres, Redis and Dynamodb for storage.",
-        "Hosted on a mixture of Heroku Apps and EC2 servers.",
-        "Caching by Fastly and Cloudflare",
-        "Hybrid app supported on all platforms"
-      ],
-      "summary": "Built a very large and complex React / Redux application. It works on all platforms and has IOS/Android builds due to it being a PWA. (wrapped it in React Native though only implementing a WebView)",
-      "website": "https://listium.com",
-      "pinned": true,
-      "name": "Listium",
-      "position": "Developer",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01"
+      "name": "Software Development",
+      "level": "Expert",
+      "keywords": [
+        "Java",
+        "JavaScript",
+        "C++",
+        "Python",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "GitHub",
+        "VSCode",
+        "Linux (Ubuntu, Arch)",
+        "Wordpress",
+        "NGINX",
+        "Cloudflare",
+        "Google Colab",
+        "Docker",
+        "Kubernetes",
+        "JIRA"
+      ]
     },
     {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Larger market share than Yahoo's, Microsoft's and Google's javascript content distribution networks",
-        "We serve hundreds of billions request a month",
-        "Contains over 3000 popular Javascript libraries",
-        "Millions of developers visit the site per year"
-      ],
-      "pinned": true,
-      "summary": "Following Google's CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "name": "Cdnjs",
-      "position": "Co-Founder",
-      "startDate": "2011-01-08"
+      "name": "RF Engineering",
+      "level": "Expert",
+      "keywords": [
+        "5G",
+        "LTE",
+        "3G",
+        "FWA",
+        "mmWave frequency",
+        "Spectrum Management",
+        "Huawei",
+        "Ericsson",
+        "Nokia",
+        "Samsung",
+        "ZTE",
+        "ATOLL",
+        "Asset",
+        "Planet",
+        "MapInfo",
+        "QGIS",
+        "ArcGIS",
+        "Google Earth",
+        "MATLAB",
+        "OCTAVE",
+        "R"
+      ]
     },
     {
-      "highlights": [
-        "Developed new tools for contacting congress",
-        "Brainstormed campaign ideas to raise maximum awareness about issues",
-        "Lots of social networking integration"
-      ],
-      "summary": "Hired to take EFF's campaigning to the next level by building an action centre in Ruby on Rails. The action centre is built around some large open source tools that lower the barrier to entry when contacting congress.",
-      "website": "http://www.eff.org",
-      "name": "Electronic Frontier Foundation",
-      "position": "Developer",
-      "startDate": "2014-04-01",
-      "endDate": "2016-01-01"
+      "name": "Project Management",
+      "level": "Expert",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "PMP",
+        "Six Sigma",
+        "JIRA",
+        "Confluence",
+        "MS Project",
+        "Asana",
+        "Trello",
+        "Slack",
+        "Teams",
+        "Zoom",
+        "Webex",
+        "Gantt Charts",
+        "Budgeting",
+        "Forecasting",
+        "Resource Allocation",
+        "Risk Management",
+        "Stakeholder Management"
+      ]
     },
     {
-      "highlights": [
-        "Managed a small team of developers and designers",
-        "Built the entire frontend application with Backbone.js",
-        "Transferred all of the infrastructure from Heroku to AWS"
-      ],
-      "summary": "Started off as a front end developer but took on the role of CTO in early 2013. The application frontend is built with Javascript and organized as a single page application that talks to a collection of Rails web servers which are connected to MongoDB.",
-      "website": "http://www.earbits.com",
-      "name": "Earbits",
-      "position": "CTO",
-      "endDate": "2015-01-09",
-      "startDate": "2013-03-08"
+      "name": "Leadership",
+      "level": "Expert",
+      "keywords": [
+        "Strategic Planning",
+        "Team Building",
+        "Mentoring",
+        "Coaching",
+        "Conflict Resolution",
+        "Negotiation",
+        "Decision Making",
+        "Public Speaking",
+        "Presentation Skills",
+        "Emotional Intelligence",
+        "Change Management",
+        "Innovation",
+        "Diversity & Inclusion"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
     },
     {
-      "highlights": ["This resume is built with JSON Resume", "Over 3000 stars on Github", "Community developed themes", "Tens of thousands of users"],
-      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-      "website": "http://jsonresume.org",
-      "pinned": true,
-      "name": "JSON Resume",
-      "position": "Founder",
-      "startDate": "2014-04-01"
-    },
-    {
-      "highlights": [
-        "Generated  37,000,000 banner views",
-        "100, 000 phone calls to congress",
-        "500, 000 emails",
-        "250, 000 signatures"
-      ],
-      "summary": "Worked on many politically charged campaigns against mass surveillance. Not only technically challenging work but also a lot of networking and getting my hands dirty with politics.    Our biggest project was \"TheDayWeFightBack\"..",
-      "website": "http://www.taskforce.is",
-      "name": "Taskforce.is",
-      "position": "Developer",
-      "startDate": "2013-06-01",
-      "endDate": "2016-01-01"
-    },
-    {
-      "highlights": [
-        "The site and blog combined have managed to receive over 200,000 visitors in 2014."
-      ],
-      "summary": "An international directory of civilian drone / UAV operators for hire. Services include aerial photography, aerial video, mapping, surveying, precision agriculture, real estate photography, remote inspections and infrared imaging. Our plan is to be the place to go when looking for UAV/Drone services. The website is built in Backbone.js and API is built with Node.js and Postgres. ",
-      "website": "http://www.dronehire.org",
-      "name": "Drone Hire",
-      "position": "Co-Founder",
-      "startDate": "2013-01-01"
-    },
-    {
-      "highlights": [
-        "Over two million unique visitors a year",
-        "25,000+ ebook downloads",
-        "300,000+ Youtube views"
-      ],
-      "summary": "I write tutorials and blog post regarding the popular Javascript framework Backbone.js. The tutorials cover a range of topics regarding front end development aimed at beginners, experts and anyone in between.",
-      "website": "http://backbonetutorials.com",
-      "name": "BackboneTutorials.com",
-      "position": "Founder",
-      "startDate": "2011-01-01",
-      "endDate": "2014-01-01"
-    },
-    {
-      "summary": "Ephox is a worldwide company who is heavily involved with the development of TinyMce and enterprise editors. My primary role included building front-end widgets and applications. Worked on a major product using Backbone.js as a base. Heavily involved in UI/UX design and wire-framing. Also spend a lot of time designing API specifications and documentation.",
-      "website": "http://ephox.com",
-      "name": "Ephox",
-      "position": "Front-end Developer",
-      "endDate": "2012-06-01",
-      "startDate": "2011-01-01"
+      "language": "French",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "Gardening"
+      "name": "Data Science",
+      "keywords": [
+        "Machine Learning",
+        "AI",
+        "Big Data",
+        "IoT",
+        "Blockchain",
+        "Cybersecurity",
+        "Quantum Computing"
+      ]
     },
     {
-      "name": "Music / Jamming"
+      "name": "Outdoor Activities",
+      "keywords": [
+        "Hiking",
+        "Camping",
+        "Mountain Biking",
+        "Skiing",
+        "Snowboarding",
+        "Kayaking",
+        "Fishing",
+        "Rock Climbing"
+      ]
     },
     {
-      "name": "Reading / Writing"
+      "name": "Technology & Gadgets",
+      "keywords": [
+        "Smart Home",
+        "Wearables",
+        "Drones",
+        "VR/AR",
+        "Gaming",
+        "3D Printing",
+        "Robotics"
+      ]
     },
     {
-      "name": "Open Source"
+      "name": "Travel & Culture",
+      "keywords": [
+        "World Travel",
+        "Culinary Exploration",
+        "Historical Sites",
+        "Music Festivals",
+        "Art Galleries",
+        "Museums",
+        "Theater"
+      ]
     }
-  ]
+  ],
+  "awards": [
+    {
+      "title": "Bell Leadership Award",
+      "date": "2022-01-01",
+      "awarder": "Bell Canada",
+      "summary": "Recognized for exceptional leadership and contributions to the company's strategic goals."
+    },
+    {
+      "title": "Innovation Award",
+      "date": "2021-01-01",
+      "awarder": "Bell Mobility",
+      "summary": "Awarded for pioneering the use of AI in network planning and optimization."
+    }
+  ],
+  "projects": [
+    {
+      "name": "5G Network Rollout",
+      "description": "Led the planning and execution of Bell Mobility's 5G network rollout, ensuring seamless transition and optimal performance.",
+      "keywords": [
+        "5G",
+        "Network Planning",
+        "Project Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Fibre to the Home (FTTH) Rollout",
+      "description": "Developed and executed a 3-year FTTH rollout plan for 2.6 million homes, transforming the broadband landscape in Canada.",
+      "keywords": [
+        "FTTH",
+        "Broadband",
+        "Network Planning",
+        "Strategic Planning"
+      ]
+    }
+  ],
+  "publications": [],
+  "references": [],
+  "volunteer": [],
+  "certifications": []
 }
